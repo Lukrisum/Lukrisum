@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukrisum&&show_icons=true&count_private=true&theme=tokyonight)
+![img](https://activity-graph.herokuapp.com/graph?username=Lukrisum&theme=vscode&bg_color=FF000000&hide_border=true)
