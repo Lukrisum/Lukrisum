@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -103,3 +104,6 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+=======
+theme: jekyll-theme-slate
+>>>>>>> df3c58dfa240f341eeeb31153a9eb8763e4dd288
